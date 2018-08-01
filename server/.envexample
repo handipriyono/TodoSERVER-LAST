@@ -1,0 +1,4 @@
+JWTsecret=<<JWT secret key>>
+ytkey=<<Youtube API KEY>>
+DB_USER=<<MLAB DB USER>>
+DB_PASS=<<MLAB DB PASS>>
